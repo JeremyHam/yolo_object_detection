@@ -1,0 +1,6 @@
+train: data/images/train
+test: data/images/test
+val: data/images/val
+
+nc: 2
+names: ['ice_pick', 'mallet']
